@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Stun_Slam",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "no_body.aternos.me",
     "port":17183,
-    "version": "1.21.6",
+    "version": "",
     "try-creative": false
   },
   "position": {
